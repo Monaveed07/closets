@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[Your Closet Business Name]</title>
+    <!-- Add meta tags, stylesheets, and other necessary scripts here -->
+    <style>
+        /* Add your custom styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            /* Add styles for the header section */
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        #hero {
+            /* Add styles for the hero section */
+            background-image: url('hero-image.jpg');
+            background-size: cover;
+            height: 500px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            color: #fff;
+        }
+        #hero h1 {
+            font-size: 48px;
+            margin-top: 0;
+        }
+        .cta-button {
+            /* Add styles for the call-to-action button */
+            display: inline-block;
+            background-color: #ff9800;
+            color: #fff;
+            font-size: 18px;
+            padding: 15px 30px;
+            margin-top: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        #about {
+            /* Add styles for the about section */
+            padding: 50px;
+        }
+        #about p {
+            font-size: 18px;
+            color: #555;
+        }
+        #features {
+            /* Add styles for the features and benefits section */
+            padding: 50px;
+            background-color: #f5f5f5;
+        }
+        #features h2 {
+            font-size: 30px;
+            color: #333;
+        }
+        #features ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+        }
+        #features li {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        #features li img {
+            width: 50px;
+            height: 50px;
+            margin-right: 20px;
+        }
+        #gallery {
+            /* Add styles for the gallery/portfolio section */
+            padding: 50px;
+        }
+        #gallery h2 {
+            font-size: 30px;
+            color: #333;
+        }
+        /* Add more styles for your gallery/portfolio section, such as image sizes, spacing, etc. */
+        #testimonials {
+            /* Add styles for the testimonials/reviews section */
+            padding: 50px;
+            background-color: #fff;
+            text-align: center;
+        }
+        #testimonials h2 {
+            font-size: 30px;
+            color: #333;
+        }
+        /* Add more styles for your testimonials/reviews section, such as quote styles, author names, etc. */
+        #cta {
+            /* Add styles for the call-to-action section */
+            padding: 50px;
+            background-color: #ff9800;
+            color: #fff;
+            text-align: center;
+        }
+        #cta h2 {
+            font-size: 30px;
+            margin-top: 0;
+        }
+        .cta-button {
+            /* Add styles for the call-to-action button */
+            background-color: #fff;
+            color: #ff9800;
+        }
+        #latest-blog {
+            /* Add styles for the latest blog/news section */
+           
