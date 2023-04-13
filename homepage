@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>[Your Closet Business Name]</title>
+    <title>[Closets & Closets]</title>
     <!-- Add meta tags, stylesheets, and other necessary scripts here -->
     <style>
         /* Add your custom styles here */
@@ -90,3 +90,6 @@
             background-color: #fff;
             text-align: center;
         }
+</head>
+</html>
+
