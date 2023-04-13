@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>[Closets & Closets]</title>
+    <title>[Your Closet Business Name]</title>
     <!-- Add meta tags, stylesheets, and other necessary scripts here -->
     <style>
         /* Add your custom styles here */
@@ -90,27 +90,3 @@
             background-color: #fff;
             text-align: center;
         }
-        #testimonials h2 {
-            font-size: 30px;
-            color: #333;
-        }
-        /* Add more styles for your testimonials/reviews section, such as quote styles, author names, etc. */
-        #cta {
-            /* Add styles for the call-to-action section */
-            padding: 50px;
-            background-color: #ff9800;
-            color: #fff;
-            text-align: center;
-        }
-        #cta h2 {
-            font-size: 30px;
-            margin-top: 0;
-        }
-        .cta-button {
-            /* Add styles for the call-to-action button */
-            background-color: #fff;
-            color: #ff9800;
-        }
-        #latest-blog {
-            /* Add styles for the latest blog/news section */
-           
