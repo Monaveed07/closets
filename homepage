@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>[Closets & Closets]</title>
-    <!-- Add meta tags, stylesheets, and other necessary scripts here -->
-    <style>
-        /* Add your custom styles here */
-        body {
+  <title>My GitHub Pages Site</title>
+</head>
+<body>
+  <h1>Welcome to my GitHub Pages site!</h1>
+  <p>This is the default landing page of my site.</p>
+   body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
@@ -90,6 +91,5 @@
             background-color: #fff;
             text-align: center;
         }
-</head>
+</body>
 </html>
-
